@@ -2,7 +2,7 @@
 
 export function WhatsAppFloat() {
   const handleWhatsAppClick = () => {
-    const phoneNumber = "919876543210" // Replace with actual MCS WhatsApp number
+    const phoneNumber = "917016431978" // MCS WhatsApp number
     const message = encodeURIComponent(
       "Hi! I'm interested in learning more about MCS - Moisture Capsulation Sheet for concrete curing.",
     )
